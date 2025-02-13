@@ -1,22 +1,29 @@
 ## Hello 👋
-ahhhh
-### asadasfsa 👋
-fasd
-asdf
-sedfd
-## Hi there 👋
 
-<!--
-**ehmughn/ehmughn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+ • Hello, I'm Emmanuel T. Bawalan <br>
+ • Currently taking BSIT at National University - Dasmariñas <br>
+ • adfhusffhfjoifeegjieg <br>
+ 
+### I don't even know what to put here 😣
+⠀⠀⢀⣀⣀⣀⡀<br>
+⠀⣰⣿⣿⣿⣿⣿⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>
+⠀⠿⣿⣟⠛⢨⠾⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀<br>
+⠀⠀⣨⣭⡥⢢⢏⣿⣿⣿⣿⣿⣿⣆⠀⠀⠀<br>
+⠀⢀⡿⠟⠛⠻⢿⣿⣿⣟⣿⣿⣿⣿⣄⠀⠀<br>
+⢀⡮⢄⣅⣀⡀⢀⡀⠀⠁⠈⠈⠙⣿⣿⣶⡄<br>
+⠸⣧⡼⣿⢳⠺⡟⣩⢏⠾⠟⠚⠛⢧⡏⡟⠃<br>
+⠀⠀⠶⠃⠁⠘⢢⢎⣫⠁⢇⠀⠀⠀⢼⠜⠀<br>
+⠀⠀⠈⠪⣄⢀⠀⢢⠽⣃⢂⣢⠀⠀⠸⠀⠀<br>
+⠀⠀⠀⠀⠀⠑⢤⣀⠵⠊⠀⡍⢆⠀⢂⠆⠀<br>
+⠀⠀⠀⠀⠀⠀⠀⠙⠈⠀⢨⠀⠘⠃⠬⠀⠀<br>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄⠀⢀⠀⠄⠀⠀<br>
 
-Here are some ideas to get you started:
+## Badges?
+<p align ="left">
+  <a href="https://www.credly.com/badges/4eaf616a-f649-4408-b996-0f5c6a8625b8/public_url">
+    <img src="https://github.com/ehmughn/ehmughn/blob/main/assets/ITS-Badges_Java_1200px.png" alt="It Specialist - Java" width="150px">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aaaaaaaaaaaaaaaaahhhhhhhhhhh
