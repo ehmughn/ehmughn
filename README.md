@@ -33,5 +33,5 @@ Hello👋, I'm Eman
 
 <br><br>
 
-### ✍️ Random but Serious Quote This Time
+### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
