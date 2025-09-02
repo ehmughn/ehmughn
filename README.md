@@ -18,7 +18,7 @@ Hello👋, I'm Eman
 <br><br>
  
 # 💻 Tech Stack:
-[![Stack](https://skillicons.dev/icons?i=python,java,html,css,javascript,c,cpp,php,lua)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=python,java,html,css,javascript,c,cpp,php,lua,react)](https://skillicons.dev)
 
 <br><br>
 
